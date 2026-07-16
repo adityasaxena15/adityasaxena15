@@ -1,16 +1,37 @@
-## Hi there 👋
+#<h1 align="center">Hi 👋, I'm Aditya Saxena</h1>
+<h3 align="center">A passionate Backend Developer building with Java & Spring Boot</h3>
 
-<!--
-**adityasaxena15/adityasaxena15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently building **ReliefNet**, a disaster resource management platform with 30+ REST APIs
+- 🌱 I'm currently learning **advanced Spring Security & scalable backend architecture**
+- 💬 Ask me about **Java, Spring Boot, PostgreSQL, REST APIs**
+- 📫 How to reach me **adityaofficial1015@gmail.com**
+- 🎓 B.Tech Computer Science Engineering @ Jaypee University of Information Technology, Solan (Expected 2028)
+- ⚡ Fun fact: I love turning real-world problems (disaster response, defence learning) into working backend systems
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya-saxena" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-saxena" height="30" width="40" />
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/logo/badge/css3-badge-h.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="maven" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Featured Projects:</h3>
+
+- 🚨 **[ReliefNet](https://github.com/adityasaxena15)** — Disaster resource management system with real-time allocation engine (Spring Boot, PostgreSQL, JWT)
+- 🎯 **[TactiLearn](https://github.com/adityasaxena15)** — Defence strategy learning platform with quiz engine & leaderboard
+- 🛒 **[Cartify](https://github.com/adityasaxena15)** — E-commerce backend with layered architecture (Controllers, Services, Repositories, DTOs)
+
+---
+📌 *This README is a work in progress — always evolving as I build more!*
